@@ -1,5 +1,6 @@
 --DELIVERABLE 1
 --Create Retirement Titles table From Employees and Title tables.
+DROP TABLE retirement_titles;
 SELECT e.emp_no,
 	   e.first_name,
 	   e.last_name,
@@ -14,6 +15,7 @@ WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 ORDER BY e.emp_no;
 
 -- Use Dictinct with Orderby to remove duplicate rows
+DROP TABLE Unique_title;
 SELECT DISTINCT ON (r.emp_no) r.emp_no,
 r.first_name,
 r.last_name,
@@ -24,6 +26,7 @@ WHERE ( r.to_date = '9999-01-01')
 ORDER BY r.emp_no, r.to_date DESC;
 
 --The number of employees by their most recent job title who are about to retire.
+DROP TABLE Retiring_titles;
 SELECT COUNT(u.title),title 
 INTO Retiring_titles
 FROM Unique_title AS u
@@ -33,7 +36,8 @@ ORDER BY count DESC;
 
 
 --DELIVERABLE 2
---Create a Mentorship Eligibility table
+--Create a Mentorship Eligibility table.
+DROP TABLE Mentorship_eligibility;
 SELECT DISTINCT ON(e.emp_no) e.emp_no,
 	   e.first_name,
 	   e.last_name,
