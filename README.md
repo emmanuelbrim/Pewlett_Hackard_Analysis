@@ -6,10 +6,13 @@ _Analyzing Employee Data using SQL._
 
 After years of training and learning to improve professional skills, every employee comes to the point of retirement. This exist from the labourforce is an important mark in every business that seeks to maintain its growth. Carefully planning for and replacing retiring labour is key to its success.
 This project was carried out to prepare Pewlett-Hackard for what had been dubbed "Silver Tsunami"; the event of a large number of its employees retiring in the not too distant future at an alarming rate. 
+
 The analysis was to help the company;
 
 -identify retiring employees by title.
+
 -find the total number of retiring employees per title.
+
 -generate a list of employees eligible for mentorship.
 
 
