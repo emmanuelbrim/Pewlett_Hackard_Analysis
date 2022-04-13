@@ -21,7 +21,7 @@ This table was produced by retriving the 'emp_no', 'first_name' and 'last_name' 
 
 _Below is an example of the list of retiring Employees_
 
-![Fig1](https://user-images.githubusercontent.com/100079292/162348096-156e6293-0a26-4aba-881b-7415256917a1.PNG)
+![Fig1](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/retirement_titles.PNG)
 
 
 * **Unique Titles Table**
@@ -31,7 +31,7 @@ Using the 'Distinct on' statement to retrived the latest titles of all the retir
 
 _Below is an example of the clean table of retiring Employees_
 
-![Fig2(https://user-images.githubusercontent.com/100079292/162348096-156e6293-0a26-4aba-881b-7415256917a1.PNG)
+![Fig2(https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/Unique_titles.PNG)
 
 
 * **Retiring Titles Table**
@@ -42,7 +42,7 @@ The final results was a table depicting the count of employees under each title.
 
 _Below is an example of the Titles table of retiring Employees_
 
-![Fig3](https://user-images.githubusercontent.com/100079292/162348096-156e6293-0a26-4aba-881b-7415256917a1.PNG)
+![Fig3](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/retiring_titles.PNG)
 
 
 * **Mentorship_Eligibility Table**
@@ -53,7 +53,7 @@ And As such this table showed all employees who were eligible for mentorship.
 
 _Below is an example of Current Employees Eligible for Mentorship_
 
-![Fig4](https://user-images.githubusercontent.com/100079292/162348096-156e6293-0a26-4aba-881b-7415256917a1.PNG)
+![Fig4](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibility.PNG)
 
 
 ## Summary
@@ -63,9 +63,9 @@ _Below is an example of Current Employees Eligible for Mentorship_
 The number of positions to be filled can easily be deduced from the retiring titles table. 
 From the table a total of 72,458 vacancies in 7 roles from various departments will need to be filled when the Tsunami makes impact. 
 
-_Below is a table of Retiring Employees who can provide Mentorship_
+_Below is a table of Roles to filled_
 
-![Fig5](https://user-images.githubusercontent.com/100079292/162348096-156e6293-0a26-4aba-881b-7415256917a1.PNG)
+![Fig5](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/roles%20to%20fill.PNG)
 
 * **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 To identify that there is enough mentors from each department fro the program, a new table was created to show the departments of retiring employees.
@@ -73,12 +73,12 @@ A query was ran to find the count of employees who belonged to the upper managem
 
 _Below is a table of Retiring Employees who can provide Mentorship_
 
-![Fig5](https://user-images.githubusercontent.com/100079292/162348096-156e6293-0a26-4aba-881b-7415256917a1.PNG)
+![Fig6](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/Mentors.PNG)
 
 The analysis provided a glimpse of what the company would expect once the Silver Tsunami hit and roles to be affected.
 Further analysis of the data to provide the the departments to be affected also gives much insite into what to expect and how to handle the rapid exist.
 A table showing the number of retiring employees in each department is vital.
-
+(https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/roles%20to%20fill.PNG)
 Meanwhile the candidates for mentorship could be skewed down to only employees who do not hold senior positions in the company. The initial list of employees eligible for mentorship included members who were already performing senior management roles and their exclusion from the list produced the actuall number who required mentorship. 
-
+![Fig6](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/Mentees.PNG)
 
