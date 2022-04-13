@@ -84,7 +84,7 @@ The analysis provided a glimpse of what the company would expect once the Silver
 Further analysis of the data to show the departments to be affected also gives much incite into what to expect and how to handle the rapid exist that as coming.
 A table showing the number of retiring employees in each department is vital.
 
-[fig7](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/roles%20to%20fill.PNG)
+![fig7](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/roles%20to%20fill.PNG)
 
 Meanwhile the candidates for mentorship could be skewed down to only employees who do not hold senior positions in the company. The initial list of employees eligible for mentorship included members who were already performing senior management roles and their exclusion from the list produced the actual candidates required for the mentorship program.
 
