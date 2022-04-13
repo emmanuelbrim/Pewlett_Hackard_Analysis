@@ -72,6 +72,7 @@ _Below is a table of Roles to filled_
 ![Fig5](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/roles%20to%20fill.PNG)
 
 * **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
+
 To identify that there is enough mentors from each department for the program, a new table was created to show the departments of retiring employees.
 A query was ran to find the count of employees who belonged to the upper management in each department. The results showed that there is enough employees to mentor others in their departments.
 
