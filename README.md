@@ -31,7 +31,7 @@ Using the 'Distinct on' statement to retrived the latest titles of all the retir
 
 _Below is an example of the clean table of retiring Employees_
 
-![Fig2(https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/Unique_titles.PNG)
+![Fig2](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/Unique_titles.PNG)
 
 
 * **Retiring Titles Table**
@@ -78,7 +78,9 @@ _Below is a table of Retiring Employees who can provide Mentorship_
 The analysis provided a glimpse of what the company would expect once the Silver Tsunami hit and roles to be affected.
 Further analysis of the data to provide the the departments to be affected also gives much insite into what to expect and how to handle the rapid exist.
 A table showing the number of retiring employees in each department is vital.
-(https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/roles%20to%20fill.PNG)
+
+1[fig7](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/roles%20to%20fill.PNG)
+
 Meanwhile the candidates for mentorship could be skewed down to only employees who do not hold senior positions in the company. The initial list of employees eligible for mentorship included members who were already performing senior management roles and their exclusion from the list produced the actuall number who required mentorship. 
-![Fig6](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/Mentees.PNG)
+![Fig8](https://github.com/emmanuelbrim/Pewlett_Hackard_Analysis/blob/main/Data/Mentees.PNG)
 
